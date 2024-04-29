@@ -9,9 +9,9 @@ Deveríamos utilizar um vídeo apresentado pelo Orientador de sala, Leonardo Roc
 
 DEV: andr_moreira@yahoo.com.br  
 CANAL NO YOUTUBE: MonolitoPHP  
-VÍDEO ASSISTIDO:(Projeto em PHP HTML CSS - Gerenciador de Tarefas - Iniciante - Parte 1) [https://www.youtube.com/watch?v=dJ49I-QYYUk]
+VÍDEO ASSISTIDO: [Projeto em PHP HTML CSS - Gerenciador de Tarefas - Iniciante - Parte 1](https://www.youtube.com/watch?v=dJ49I-QYYUk)
 
-![png](imgs/telaToDoList.png)
+![img](/Gerenciador/imgs/telaToDoList.png)
 
 
 ### Aprendizados/Fuções Novas
@@ -37,7 +37,7 @@ VÍDEO ASSISTIDO:(Projeto em PHP HTML CSS - Gerenciador de Tarefas - Iniciante -
  
 ### Exemplo de uso
  
-![gif](ExemToDoList.gif) 
+![gif](/Gerenciador/imgs/ExemToDoList.gif) 
 
 Adicione o total de tarefas que quiser e caso queira apagá-las, clique em Limpar Tarefas.
 
